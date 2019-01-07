@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Tracker-CRM</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_mapa">Map</string>
+
+    <item name="name" type="id" />
+    <item name="position" type="id" />
+
+    <item name="x" type="id" />
+    <item name="y" type="id" />
+
+    <item name="foto" type="id" />
+
+
+
+    <string-array name="query_suggestions">
+        <item>Cliente1</item>
+        <item>Cliente2</item>
+        <item>Cliente3</item>
+        <item>Cliente4</item>
+        <item>Cliente5</item>
+        <item>Cliente6</item>
+        <item>Cliente7</item>
+        <item>Cliente8</item>
+        <item>Cliente9</item>
+        <item>Cliente10</item>
+        <item>Cliente11</item>
+        <item>Cliente12</item>
+    </string-array>
+
+
+    <string-array name="distritos">
+        <item>DISTRITO</item>
+        <item>Arequipa</item>
+        <item>Alto Selva Alegre</item>
+        <item>Cayma</item>
+        <item>Cerro Colorado</item>
+        <item> Characato</item>
+        <item> Chiguata</item>
+        <item> Jacobo Hunter</item>
+        <item> La Joya</item>
+        <item> Mariano Melgar </item>
+        <item> Miraflores</item>
+        <item> Mollebaya</item>
+        <item> Paucarpata</item>
+        <item> Pocsi </item>
+        <item> Polobaya</item>
+        <item> Quequeña</item>
+        <item> Sabandia</item>
+        <item> Sachaca</item>
+        <item> San Juan de Siguas</item>
+        <item> San Juan de Tarucani</item>
+        <item> Santa Isabel de Siguas</item>
+        <item> Santa Rita de Siguas</item>
+        <item> Socabaya</item>
+        <item> Tiabaya</item>
+        <item> Uchumayo</item>
+        <item> Vitor</item>
+        <item> Yanahuara</item>
+        <item> Yarabamba</item>
+        <item> Yura</item>
+        <item> José Luis Bustamante Y Rivero</item>
+
+
+    </string-array>
+
+
+    <string name="title_activity_cliente">Cliente</string>
+    <string name="title_activity_add_cliente">AddCliente</string>
+
+
+</resources>
